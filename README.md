@@ -1,2 +1,19 @@
 # Healthcare-System-Analysis
-I developed a comprehensive project in Power Bi, creating multiple dashboards to analysis the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+
+## Project Overview
+- This project aims to leverage Power BI for analyzing and visualizing healthcare data to improve hospital operations and patient care. The project will identify key performance metrics such as patient flow, operational costs. Interactive Power BI dashboards will provide real-time insights, enabling healthcare administrators and practitioners to make data-driven decisions.
+
+## Project Idea
+- The goal of this project is to analyze and visualize key healthcare system metrics through Power BI dashboards to improve decision-making, optimize resource allocation, and enhance patient care outcomes. The system will overview of various metrics such as latest month waiting list, previous year latest month waiting list to provide actionable insights for administrators, healthcare providers, and policymakers.
+
+## Healthcare Data Analysis
+- Use Cards to display latest month waiting list, previous year latest month waiting list.
+- Plot Bar Charts to show patient analysis by time bands and age profile.
+- Plot Pie Chart to analyze the magnitude of patients based on case types.
+- Design Line Chart to visualize monthly patient analysis for healthcare operations.
+- Prepare Matrix to analyze patients by case type(day case, inpatient, outpatient).
+
+## Key Business Questions to Explore (KPIs):
+- What are the trends in patient admissions and discharge rates over the past 12 months?
+- What is the average wait time for patients in the emergency department (ED), and how does it compare across different hospitals or locations?
+- What operational changes can be made to minimize waiting list and optimize ground processing time?
