@@ -13,6 +13,13 @@
 - Design Line Chart to visualize monthly patient analysis for healthcare operations.
 - Prepare Matrix to analyze patients by case type(day case, inpatient, outpatient).
 
+## Dashboard
+- HEALTHCARE SYSTEM ANALYSIS - SUMMARY
+  ![Summary](https://github.com/user-attachments/assets/395afd7e-a2e9-4338-9990-19f932801a4d)
+
+- HEALTHCARE SYSTEM ANALYSIS - DETAILED
+  ![Detail Information](https://github.com/user-attachments/assets/415acefc-8d4b-4680-b9f2-6814ad9e7cd2)
+
 ## Key Business Questions to Explore (KPIs):
 - What are the trends in patient admissions and discharge rates over the past 12 months?
 - What is the average wait time for patients in the emergency department (ED), and how does it compare across different hospitals or locations?
